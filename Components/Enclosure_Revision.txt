@@ -1,0 +1,18 @@
+Enclosure BOM Revision control
+
+/***************************************************************************/
+date 28/01/2021
+version V01
+Revision 02
+Author: Ricardo Iuzzolino
+
+NOTES:
+	* DIY cable front panel BNC-SMA connectors
+	* The qty for GND connector was changed from 6 to 1 (only one point)
+	* DC Power supply input connector was replaced by a 5/2.5 mm Jack
+	* An DC external power supply item was included (without code) 
+
+/***************************************************************************/
+
+
+
