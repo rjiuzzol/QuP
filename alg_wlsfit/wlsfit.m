@@ -1,4 +1,4 @@
-## Function wlsfit calculate a polinomial fitting using
+## Function wlsfit calculate a polynomial fitting using
 ## the Weighted Least Squares Regression algorithm
 ##
 ## Inputs:
