@@ -7,7 +7,7 @@ load ws_lsfit_0308.mat
 n=1; %polinomial order 
 
 % for WLS
-[pw,sw] = wlsfit(Ref, C, uC,n);
+[pw,sw] = wlsfit(Ref, C, uC, n);
 disp('Results for WLS fitting');
 
 
@@ -23,7 +23,7 @@ disp(['Goodnes          : ' num2str(sw.chi2,5)])
 
 pause;
 
-# for OLS
+%# for OLS
 [p,s]= wlsfit(Ref, C, n);
 
 disp('Results for OLS fitting');
