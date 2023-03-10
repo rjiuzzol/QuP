@@ -126,8 +126,11 @@ function [p, s] = wlsfit (x, y, w, n)
 function A = ShortVander(x, n)
 x = x(:);  % Column vector
 A = ones(length(x), n);
-for i = 2:n
-  A(:, i) = x .* A(:, i-1);
+k = 1;
+for i = n:-1:1
+  A(:,i) = k;
+  k = k .* x; 
+  %ORIG A(:, i) = x .* A(:, i-1);
 end
 end % function
 
