@@ -1,4 +1,4 @@
-Copyright 2023 INTI - Ricardo Iuzzolino
+Copyright 2023 INTI - RI - MB
 
 This project is licensed under
 The TAPR Open Hardware License
