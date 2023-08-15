@@ -1,0 +1,9 @@
+Copyright 2023 INTI - Ricardo Iuzzolino
+
+This project is licensed under
+The TAPR Open Hardware License
+Version 1.0 (May 25, 2007)
+Copyright 2007 TAPR - http://www.tapr.org/OHL
+
+see License/TAPR_Open_Hardware_License_v1.0.txt for details
+
